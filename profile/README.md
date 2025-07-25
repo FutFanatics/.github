@@ -65,10 +65,3 @@ Inspirados pela paixão pelo esporte, buscamos conectar fãs de todas as partes 
 
 > *FutFanatics — Levando o amor pelo esporte para cada fanático.* ⚽
 
----
-
-**TECH STACK & REPOSITÓRIO**  
-Este repositório centraliza conteúdos como integrações de APIs, documentação de e‑commerce, manuais de marketing e branding, além de guias visuais para uso de logomarcas e badges em projetos futuros.
-
-> Personalize este modelo conforme o tom visual da marca, adicionando badges de certificações, estatísticas atualizadas, ou blocos de destaque para campanhas ou produtos em destaque.
-::contentReference[oaicite:12]{index=12}
