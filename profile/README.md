@@ -11,7 +11,7 @@ Hoje contamos com **mais de 15.000 produtos ativos**, parceria com **150+ marcas
 ---
 
 ## 🚀 Expansão Internacional  
-Desde **2015**, operamos também pelo site internacional **FutFanatics.net**, com envios globais — entrega entre **3 a 6 dias úteis** {index=4}.
+Desde **2015**, operamos também pelo site internacional **FutFanatics.net**, com envios globais — entrega entre **3 a 6 dias úteis**.
 
 ---
 
